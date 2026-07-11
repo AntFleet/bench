@@ -41,12 +41,5 @@ Prefer `gh repo rename` (preserves redirects) over delete-and-recreate (kills re
 
 ---
 
-## Open normalization pass (tracked)
-
-These mirrors still carry the upstream tagline instead of the mirror description format,
-and their upstream owner/repo needs confirming for the index:
-
-- `bench-agent-openhuman`, `bench-agentfloat`, `bench-bankrskills`, `bench-doppler`,
-  `bench-hermes-desktop`, `bench-miroshark`, `bench-openclaude`
-
-Fix: set each description to the § 1 format and fill the matching row in the index.
+_Normalization complete 2026-07-11: all 22 mirror descriptions follow the § 1 format and
+every upstream is filled in the [index](./README.md)._

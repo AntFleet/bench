@@ -25,19 +25,19 @@ See [HOUSE-RULES.md](./HOUSE-RULES.md) for the full org tidy-up rules.
 | Mirror | Upstream | Visibility |
 |---|---|---|
 | [bench-agent-autonomopoly](https://github.com/antfleet/bench-agent-autonomopoly) | Liquid-Protocol-Ops/agent-autonomopoly | public |
-| [bench-agent-openhuman](https://github.com/antfleet/bench-agent-openhuman) | _upstream TBD — normalize_ | public |
-| [bench-agentfloat](https://github.com/antfleet/bench-agentfloat) | _upstream TBD — normalize_ | public |
+| [bench-agent-openhuman](https://github.com/antfleet/bench-agent-openhuman) | tinyhumansai/openhuman | public |
+| [bench-agentfloat](https://github.com/antfleet/bench-agentfloat) | ronkenx9/agentfloat-hook | public |
 | [bench-antseed](https://github.com/antfleet/bench-antseed) | AntSeed/antseed | public |
-| [bench-bankrskills](https://github.com/antfleet/bench-bankrskills) | _upstream TBD — normalize_ | public |
+| [bench-bankrskills](https://github.com/antfleet/bench-bankrskills) | BankrBot/skills | public |
 | [bench-berry](https://github.com/antfleet/bench-berry) | levyonchain/Berry-Juicer-Public | public |
 | [bench-bitterbot-desktop](https://github.com/antfleet/bench-bitterbot-desktop) | Bitterbot-AI/bitterbot-desktop | public |
 | [bench-claude-mem](https://github.com/antfleet/bench-claude-mem) | thedotmack/claude-mem | public |
-| [bench-doppler](https://github.com/antfleet/bench-doppler) | _upstream TBD — normalize_ | public |
-| [bench-hermes-desktop](https://github.com/antfleet/bench-hermes-desktop) | _upstream TBD — normalize_ | public |
+| [bench-doppler](https://github.com/antfleet/bench-doppler) | whetstoneresearch/doppler | public |
+| [bench-hermes-desktop](https://github.com/antfleet/bench-hermes-desktop) | fathah/hermes-desktop | public |
 | [bench-localai](https://github.com/antfleet/bench-localai) | mudler/LocalAI | private |
-| [bench-miroshark](https://github.com/antfleet/bench-miroshark) | _upstream TBD — normalize_ | public |
+| [bench-miroshark](https://github.com/antfleet/bench-miroshark) | aaronjmars/MiroShark | public |
 | [bench-mythos-router](https://github.com/antfleet/bench-mythos-router) | thewaltero/mythos-router | public |
-| [bench-openclaude](https://github.com/antfleet/bench-openclaude) | _upstream TBD — normalize_ | public |
+| [bench-openclaude](https://github.com/antfleet/bench-openclaude) | Gitlawb/openclaude | public |
 | [bench-orlixai](https://github.com/antfleet/bench-orlixai) | tylerbroqs/orlixai | public |
 | [bench-reppo-cli](https://github.com/antfleet/bench-reppo-cli) | Reppo-Labs/reppo-cli | public |
 | [bench-reppo-polyagent](https://github.com/antfleet/bench-reppo-polyagent) | Reppo-Labs/reppo-polyagent | public |
@@ -47,9 +47,7 @@ See [HOUSE-RULES.md](./HOUSE-RULES.md) for the full org tidy-up rules.
 | [bench-virtuals-acp-cli](https://github.com/antfleet/bench-virtuals-acp-cli) | Virtual-Protocol/acp-cli | public |
 | [bench-virtuals-acp-node-v2](https://github.com/antfleet/bench-virtuals-acp-node-v2) | Virtual-Protocol/acp-node-v2 | public |
 
-> `_upstream TBD — normalize_` rows still carry the upstream project's tagline as their
-> GitHub description instead of the mirror format. Fixing those descriptions (and filling
-> the upstream) is the open normalization pass — see HOUSE-RULES.md § Description format.
+All 22 mirror descriptions follow the § 1 format `AntFleet benchmark mirror of <owner>/<repo>`.
 
 ## Not in this index (bench-named but not mirrors)
 
